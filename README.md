@@ -24,6 +24,8 @@ I'm **Bayron Patricio PÃ©rez Vera**, a Computer Engineer from Rancagua, Chile ðŸ
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white&style=flat)
 ![Spyder](https://img.shields.io/badge/-Spyder-FF0000?logo=spyder%20ide&logoColor=white&style=flat)
 ![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-4479A1?logo=mysql&logoColor=white&style=flat)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=flat)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat)
 
 
 ### GitHub Stats:
