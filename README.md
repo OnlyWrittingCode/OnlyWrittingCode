@@ -7,7 +7,7 @@ I'm **Bayron Patricio Pérez Vera**, a Computer Engineer from Rancagua, Chile �
 - 👯 **I’m looking to collaborate on:** Open-source projects that make a positive impact.
 - 💬 **Ask me about:** Software development, problem-solving, and technology trends.
 - 📫 **How to reach me:** [Email](mailto:bayron2033@gmail.com) | [LinkedIn](www.linkedin.com/in/bayron-patricio-pérez-vera-52a71b187)
--⚡ Fun fact: A Computer Engineer by training, a gamer by soul—my goal is to merge both worlds and create unique gaming experiences."
+- ⚡ **Fun fact:** A Computer Engineer by training, a gamer by soul—my goal is to merge both worlds and create unique gaming experiences.
 
 ---
 
