@@ -6,17 +6,25 @@ I'm **Bayron Patricio Pérez Vera**, a Computer Engineer from Rancagua, Chile �
 - 🌱 **I’m currently learning:** New programming languages and technologies to expand my skill set.
 - 👯 **I’m looking to collaborate on:** Open-source projects that make a positive impact.
 - 💬 **Ask me about:** Software development, problem-solving, and technology trends.
-- 📫 **How to reach me:** [Email](mailto:your.email@example.com) | [LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- ⚡ **Fun fact:** I believe in the fusion of creativity and logic to drive technological innovation.
+- 📫 **How to reach me:** [Email](mailto:bayron2033@gmail.com) | [LinkedIn](www.linkedin.com/in/bayron-patricio-pérez-vera-52a71b187)
+-⚡ Fun fact: A Computer Engineer by training, a gamer by soul—my goal is to merge both worlds and create unique gaming experiences."
 
 ---
 
 ### Languages and Tools:
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white&style=flat)
+![Spyder](https://img.shields.io/badge/-Spyder-FF0000?logo=spyder%20ide&logoColor=white&style=flat)
+![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-4479A1?logo=mysql&logoColor=white&style=flat)
+
 
 ### GitHub Stats:
 
